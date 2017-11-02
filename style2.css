@@ -1,0 +1,38 @@
+ul{
+    list-style-type:square;
+}
+
+li{
+    color:purple;
+}
+
+a{
+    text-decoration:none;
+    color:green;
+}
+
+h3{
+    border-style:inset;
+    outline-style:outset;
+    color:Purple
+}
+
+h2{
+    color:purple;
+}
+
+.extreme{
+    width:300px;
+    height:50px;
+    background-color:pink;
+    box-shadown: 10px 10px 5px #888888;
+}
+
+.navzone{
+    border-style:dashed;
+}
+
+#tehlulz{
+    border-style:double;
+    color:yellow;
+}

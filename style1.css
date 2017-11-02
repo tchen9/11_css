@@ -1,0 +1,48 @@
+h1{
+    color:#FF00FF;
+    font-size:300%;
+}
+
+h2{
+    color:lightsalmon;
+    font-size:150%;
+}
+
+h3{
+    color:lightcoral;
+    font-size:200%;
+}
+
+p{
+    border-style:double;
+    outline-style: outset;
+    outline-color:pink;
+}
+
+body{
+    background-color: lightblue;
+    text-align: center;
+}
+
+.extreme{
+    text-align:center;
+    border-style:double;
+}
+
+.navzone{
+    border-style:groove;
+}
+
+.content{
+    border-style:dotted;
+    text-align:left;
+}
+
+.prose{
+    border-style:dashed;
+    text-align:right;
+}
+
+#head1{
+    border-style:dashed;
+}
