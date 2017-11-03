@@ -1,0 +1,25 @@
+.body1{
+    border-style:double;
+    border-radius:25px;
+    color:red;
+}
+
+.body2{
+    border-style:double;
+    border-radius:25px;
+    color:green;
+}
+
+.body3{
+    border-style:double;
+    border-radius:25px;
+    color:blue;
+}
+
+.bob{
+    background-color: #eee;
+    width: 1000px;
+    height: 200px;
+    border: 1px dotted black;
+    overflow: scroll;
+}
